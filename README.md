@@ -1,3 +1,6 @@
+Para rodar o projeto, é necessário instalar as dependências do projeto react-test e do projeto web-api-auth-exemples.
+Para rodar a api de exemplo do spotify, é necessário ir na pasta **authorization_code** e rodar o comando "node app.js"
+
 # MM React Test
 
 Create a web and app application used to display the preferred playlists from customers. The web application has only one page:
